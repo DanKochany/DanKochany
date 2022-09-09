@@ -1,10 +1,10 @@
-<h1> Hi, I’m @DanielKochany</h1>
+<h1> Hi, I’m Daniel Kochany</h1>
 
 - I'm currently working as a Dev Front-End Jr with VueJS, Typescript, HTML and CSS(SCSS). 
 - Learning about RactJs and keep studying Typescript;
 - E-mail: danielkochany@gmail.com
 - <a href="https://www.linkedin.com/in/daniel-kochany-452ab8213/"> Linkedin
-
+  
 <div align="center">
   <a href="https://github.com/DanKochany">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DanKochany&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
