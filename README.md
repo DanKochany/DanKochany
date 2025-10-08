@@ -1,6 +1,6 @@
 <h1> Hi, I’m Daniel Kochany</h1>
 
-- I'm currently working as a Dev Front-End Pl with VueJS, Angular, Typescript, HTML and CSS(SCSS). 
+- I'm currently working as a Dev Front-End Pl with VueJS, React, Typescript, HTML and CSS(SCSS). 
 - Learning about RactJs and still studying Typescript;
 - E-mail: danielkochany@gmail.com
 - <a href="https://www.linkedin.com/in/daniel-kochany-452ab8213/"> Linkedin
